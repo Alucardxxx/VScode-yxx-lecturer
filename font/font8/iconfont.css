@@ -1,0 +1,29 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1576220052025'); /* IE9 */
+  src: url('iconfont.eot?t=1576220052025#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAARQAAsAAAAACGQAAAQBAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDHAqEJINrATYCJAMQCwoABCAFhG0HQhtXB1GUDk6K7MeB4zZLqDAxwSUnNDqedOv/bzx8v187zz4X0yRJNO5QfTqJ6Sapb6UEQqd0olnIzL+b+QknJpypE1KxCBDiyIl5TXw0BzJVdOt4r2MSIGDvf46Zrkogv83mVp3Ph6PxuHVgUXFVeMB3IHhGN4zdRNAQ95MwZFEi6LC6EQV2KjAsId1RpBzYZbRqQ2ESkq5ibm2GVoC1yLOSN4A+//30Iz07IGsFgIOOLqpUoPTd7W8pPGIZAdvKJBiZzgxjEQVbgEq6qrSegKPoFtiQ19nKNiCEzFQtIX9LLRaFfxRpQBt58B8vdQBIR2RsL1Z4d8MsMu8h3CpZqcx/AN4HcQe8XA+APwAo856nKfKMs6edXaoNFOrBHrwYvQFDw/f6OOz2QjD09Hk/1FmxRyLM73uS0bNzp7FR6ISQdc8cMToKnRSzb/PIqAo4SpxhR2iXA3CA4Ld17B896jN6Nf+h6LNblF0zh4siJvLoYSFJ4H1284X3L3vv3g+M7PHe4+g+77sPUrTLHKWtvv2gDcU6IJ7Pvc/nv/qJiSdl5l+y1+Y64YdUeJypir5cJtnNo6LoA7+USl8KBb+eVbwq3+6cpEEhJACBqpN1O5zLX2f4EL88TtkMd59wONE97IZ6oeUnADincnUVl8PA/b+rDFsfOr90frQ160GqmlGnNn4C+SNerie2Qp3+V3d3cLuyjVEaXWZOMEkkA11kE1QPem7gAddk08W4stxSE7u7/XgQAwx9l3Tbbe2XnJzctz50uhDQE/08Iup5bwRoeS4X4uXoFlR7nZfeal7baPHjTungQF5jeFRbsDHOS6OIxJqcbJUxWX3GpLbIM87/M6pmS5rC5LZP+6/bPbV7tm3d3Uqf3WnpNPyXCcC/uRyH43jKU/giXGYB8XvrBnjyz/fzfPXp752uhRvh+OSBJ39sXRV2k4Hfx+vM+8/qltOA+BX6AqCr1eViTgetUohDrhzOGIIG/m6SKV+nUM6+wngSZhPIBixAEZaQFbsFzbAedMIODNlUs3jYNAYsVXvAhkkJkgnXIBvzCMWEt8iK/QLNnH/QmQiGIcfJc81hK1EOFQwu53AVouhFKKXRQCAD5yAK23GyUydn0gJOxXCGpQJIWnJqPlGDG3BmiglsF5nOcQRCMEY9Ui0dhut0RsTEGDW4kktWc5wpPyWFqHqlZKVRDxwcYODkODgVhEIvBEXJyICglTkOhZ9vhyN10pFjGop67Bgcg0W1j0iTLLUDskZq6FR0K/dhdSGl43AICALDSA9RLZlxOhg1Qpiqe2nglDjJ1APCJvlSlFJEV2ny8nL9G66CIeCMmiQQDFlB1iBuKLmBZNWUpLbdrqcTjyK4gQQAAAAA') format('woff2'),
+  url('iconfont.woff?t=1576220052025') format('woff'),
+  url('iconfont.ttf?t=1576220052025') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1576220052025#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-jiangshi:before {
+  content: "\e640";
+}
+
+.icon-HR:before {
+  content: "\e610";
+}
+
+.icon-xuesheng:before {
+  content: "\e61e";
+}
+
